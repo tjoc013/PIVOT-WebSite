@@ -5,10 +5,7 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={
-      "Michael D'Angelo's personal website. New York based Stanford ICME graduate, "
-      + 'VP of Engineering at Smile Identity, co-founder of Arthena and Matroid, and YC Alumni.'
-    }
+    description="PIVOT @ VT WebSite"
   >
     <article className="post" id="index">
       <header>
@@ -17,23 +14,15 @@ const Index = () => (
             <Link to="/">This is PIVOT!</Link>
           </h2>
           <p>
-            A beautiful, responsive, statically-generated, react application
-            written with modern Javascript.
+            Physics Infused Vision for Onward Thinking
           </p>
         </div>
       </header>
       <p>
-        {' '}
-        Welcome to my website. Please feel free to read more{' '}
-        <Link to="/about">about me</Link>, or you can check out my{' '}
-        <Link to="/resume">resume</Link>, <Link to="/projects">projects</Link>,{' '}
-        view <Link to="/stats">site statistics</Link>, or{' '}
-        <Link to="/contact">contact</Link> me.
-      </p>
-      <p>
-        {' '}
-        Source available{' '}
-        <a href="https://github.com/mldangelo/personal-site">here</a>.
+        Already composed of members from over 9 majors, we are excited to start forging our path and
+        sharing physics-driven solutions with everyone! We have a couple projects under way, so stay
+        tuned for more in depth postings of our process. If you or anyone you know is interested in
+        learning more or joining our movement please reach out, we would love to have you!
       </p>
     </article>
   </Main>
