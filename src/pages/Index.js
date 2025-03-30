@@ -14,7 +14,7 @@ const Index = () => (
       <header>
         <div className="title">
           <h2>
-            <Link to="/">About this site</Link>
+            <Link to="/">This is PIVOT!</Link>
           </h2>
           <p>
             A beautiful, responsive, statically-generated, react application
