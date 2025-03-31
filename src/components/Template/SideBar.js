@@ -9,26 +9,26 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+        <img
+          src={`${PUBLIC_URL}/images/PIVOT-square-logo.jpg`}
+          alt="PIVOT logo"
+          className="sidebar-logo"
+        />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
+        <h2>PIVOT @ VT</h2>
         <p>
-          <a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a>
+          <a href="mailto:contact@pivot.edu">contact@pivot.edu</a>
         </p>
       </header>
     </section>
 
     <section className="blurb">
-      <h2>About</h2>
+      <h2>About us</h2>
       <p>
-        Hi, I&apos;m Michael. I am a{' '}
-        <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC
-        alumnus, and the co-founder and CTO of{' '}
-        <a href="https://promptfoo.dev">Promptfoo</a>. Previously, I
-        was VP of Engineering at <a href="https://usesmileid.com">SmileID</a>,
-        co-founder and CTO of <a href="https://arthena.com">Arthena</a>, and
-        co-founded <a href="https://matroid.com">Matroid</a>.
+        We are PIVOT (Physics Infused Vision for Onward Thinking), a student-led org at Virginia
+        Tech. Our members come from 9+ majors and collaborate on innovative, physics-driven
+        solutions to real-world challenges.
       </p>
       <ul className="actions">
         <li>

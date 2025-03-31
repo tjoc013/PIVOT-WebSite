@@ -71,3 +71,13 @@
 @import "pages/resume";
 @import "pages/skills";
 @import "pages/stats";
+
+.sidebar-logo {
+  transition: transform 0.3s ease;
+  border-radius: 50%;
+  width: 100%;
+}
+
+.sidebar-logo:hover {
+  transform: rotate(10deg) scale(1.03);
+}
