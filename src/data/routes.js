@@ -1,7 +1,7 @@
 const routes = [
   {
     index: true,
-    label: "Michael D'Angelo",
+    label: 'PIVOT @ VT',
     path: '/',
   },
   {
@@ -9,15 +9,15 @@ const routes = [
     path: '/about',
   },
   {
-    label: 'Resume',
-    path: '/resume',
-  },
-  {
     label: 'Projects',
     path: '/projects',
   },
   {
-    label: 'Stats',
+    label: 'Research',
+    path: '/resume',
+  },
+  {
+    label: 'null',
     path: '/stats',
   },
   {
