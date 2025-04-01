@@ -8,6 +8,7 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
 
+// TO-DO: Need to update contact info (once we have them). Just LinkedIn for now.
 const data = [
   {
     link: 'https://github.com/mldangelo',

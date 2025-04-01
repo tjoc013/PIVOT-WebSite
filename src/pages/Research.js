@@ -2,10 +2,10 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Main from '../layouts/Main';
 
-const Stats = () => (
+const Research = () => (
   <Main
     title="Research / Publications"
-    description="Explore my undergraduate research and published work in machine learning, finance, and space systems."
+    description="Explore our undergraduate research and published work."
   >
     <article className="post" id="research">
       <header>
@@ -57,4 +57,4 @@ const Stats = () => (
   </Main>
 );
 
-export default Stats;
+export default Research;
