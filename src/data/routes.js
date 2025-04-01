@@ -14,10 +14,6 @@ const routes = [
   },
   {
     label: 'Research',
-    path: '/resume',
-  },
-  {
-    label: 'null',
     path: '/stats',
   },
   {
