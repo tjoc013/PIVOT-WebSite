@@ -21,7 +21,7 @@ const data = [
     icon: faFacebookF,
   },
   {
-    link: 'https://www.instagram.com/dangelosaurus/',
+    link: 'https://www.instagram.com/vtpivot/',
     label: 'Instagram',
     icon: faInstagram,
   },
@@ -31,7 +31,7 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'https://angel.co/michael-d-angelo',
+    link: 'https://www.youtube.com/@pivotatvt',
     label: 'Angel List',
     icon: faAngellist,
   },
